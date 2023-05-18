@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="24sp"
+    android:layout_height="match_parent"
+    tools:context=".VediosFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="34sp"
+        android:text="Vedio darslar"/>
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:text="1 - dars"
+        android:layout_height="wrap_content"/>
+     <Button
+         android:id="@+id/btn2"
+         android:layout_width="match_parent"
+        android:text="2 - dars"
+        android:layout_height="wrap_content"/>
+     <Button
+         android:id="@+id/btn3"
+         android:layout_width="match_parent"
+        android:text="3 - dars"
+        android:layout_height="wrap_content"/>
+     <Button
+         android:id="@+id/btn4"
+         android:layout_width="match_parent"
+        android:text="4 - dars"
+        android:layout_height="wrap_content"/>
+     <Button
+         android:id="@+id/btn5"
+         android:layout_width="match_parent"
+        android:text="5 - dars"
+        android:layout_height="wrap_content"/>
+
+     <Button
+         android:id="@+id/btn6"
+         android:layout_width="match_parent"
+        android:text="6 - dars"
+        android:layout_height="wrap_content"/>
+
+     <Button
+         android:id="@+id/btn7"
+         android:layout_width="match_parent"
+        android:text="7 - dars"
+        android:layout_height="wrap_content"/>
+
+     <Button
+         android:id="@+id/btn8"
+         android:layout_width="match_parent"
+        android:text="8 - dars"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>
